@@ -25,7 +25,7 @@ const joel = {
 ```
 
 ## Experience 🍕
-Desarrollador Full-Stack especializado en Next.js y TypeScript, con un año de experiencia en desarrollo empresarial y proyectos freelance. Mi expertise abarca tanto el desarrollo de aplicaciones web robustas como la creación de interfaces modernas y funcionales, adaptando las tecnologías de back-end según las necesidades específicas de cada cliente
+Software Engineer especializado en Next.js y TypeScript, con un año de experiencia en desarrollo empresarial y proyectos freelance. Mi expertise abarca tanto el desarrollo de aplicaciones web robustas como la creación de interfaces modernas y funcionales, adaptando las tecnologías de back-end según las necesidades específicas de cada cliente
 
 ## Tech Stack 💻
 
