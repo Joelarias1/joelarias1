@@ -6,7 +6,6 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([tu-linkedin-ur](https://www.linkedin.com/in/joelariasparra/)l)
   
 
-
 </div>
 
 ## About me 🚀
@@ -24,6 +23,9 @@ const joel = {
     interests: ["System Design", "DevOps", "Blockchain", "Web Development"]
 };
 ```
+
+## Experience 🍕
+Desarrollador Full-Stack especializado en Next.js y TypeScript, con un año de experiencia en desarrollo empresarial y proyectos freelance. Mi expertise abarca tanto el desarrollo de aplicaciones web robustas como la creación de interfaces modernas y funcionales, adaptando las tecnologías de back-end según las necesidades específicas de cada cliente
 
 ## Tech Stack 💻
 
