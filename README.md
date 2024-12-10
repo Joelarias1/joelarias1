@@ -47,7 +47,7 @@ Software Engineer especializado en Next.js y TypeScript, con un año de experien
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -69,7 +69,7 @@ Tracker de Criptomonedas:
 - Sistema de gestión de inventario en tiempo real
 - Analíticas de usuario y comportamiento
 - Optimización de rendimiento y caché
-Tecnologías: React, Node.js, Coingecko API, Tailwind
+* Tecnologías: React, Node.js, Coingecko API, Tailwind
 
 ## Let's Connect! 🤝
 ¿Tienes una idea innovadora o necesitas potenciar tu proyecto con tecnología? Como desarrollador full-stack, puedo ayudarte a construir la solución perfecta para tu negocio. Ya sea una aplicación web, un MVP o una integración específica, trabajemos juntos para hacer realidad tu visión. ¡Contáctame y conversemos sobre cómo puedo ayudarte!
