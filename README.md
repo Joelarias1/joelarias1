@@ -1,1 +1,1 @@
-Doing AI Gambling Agents to recover the economy 
+doing cool shit
